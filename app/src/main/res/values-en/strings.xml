@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ButtonText">I\’m a button</string>
+    <string name="hello_message">Howdy partner!</string>
+    <string name="app_name">StartActivity</string>
+</resources>
